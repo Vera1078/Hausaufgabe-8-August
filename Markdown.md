@@ -9,13 +9,7 @@
 # Заголовок первого уровня
 
 ## Зоголовок 2-5 уровня
-<<<<<<< HEAD
-
-Возможно создание маркированного и нумерованного списков:
-
-=======
 Чтобы создать списки необходимо выполнить следующие действия:
->>>>>>> text_formatierung
 * Маркированный список - 1
 * Маркированный список - 2
 * Маркированный список - 3
@@ -27,6 +21,5 @@
 
 <https://ru.wikipedia.org/wiki/Markdown> - это безанкорная ссылка
 
-Добавление изображения:
 ![Изображение](https://steemitimages.com/p/23KQwnti57stsDWAURZzV9pSe7RmCmohgYAXd76hQ4LamTjNPZpSNjyfBiwzEQM2xASyTzwf3rNz3Mo5QFRmdbtb5tPVMkz?format=match&mode=fit&width=1280) 
 
